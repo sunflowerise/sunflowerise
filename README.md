@@ -25,10 +25,8 @@ scikit-learn, NumPy, Pandas
 
 ## Profile
 Motivated undergraduate with experience working on academic and technical projects.  
-Familiar with building applications involving data processing, backend development, and basic machine learning workflows.
+Familiar with building applications involving data processing, development and basic machine learning workflows.
 
 ---
 
-## Contact
-- Email: akanksharani.k@gmail.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
+
