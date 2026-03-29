@@ -1,16 +1,34 @@
-### Hi there 👋
+# Akanksha Rani
 
-<!--
-**sunflowerise/sunflowerise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Science Engineering student at RV College of Engineering (RVCE), Bengaluru.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages:**  
+Python, SQL, JavaScript, HTML/CSS  
+
+**Technologies & Tools:**  
+FastAPI, Streamlit, REST APIs, Git  
+
+**Concepts:**  
+Machine Learning, Natural Language Processing, Data Processing  
+
+**Databases:**  
+MySQL, MongoDB, ChromaDB  
+
+**Libraries:**  
+scikit-learn, NumPy, Pandas  
+
+---
+
+## Profile
+Motivated undergraduate with experience working on academic and technical projects.  
+Familiar with building applications involving data processing, backend development, and basic machine learning workflows.
+
+---
+
+## Contact
+- Email: akanksharani.k@gmail.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
